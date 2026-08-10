@@ -1,0 +1,21 @@
+===== Leap Year Checker =====
+
+Example 1:
+
+Enter a year: 2024
+2024 is a leap year.
+
+Example 2:
+
+Enter a year: 2023
+2023 is not a leap year.
+
+Example 3:
+
+Enter a year: 2000
+2000 is a leap year.
+
+Example 4:
+
+Enter a year: 1900
+1900 is not a leap year.
